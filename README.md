@@ -1,1 +1,1 @@
-# alternative-slacks.github.io
+# http://alternative-slacks.github.io
